@@ -1,2 +1,2 @@
 # test-repo
-Merge conflict here.
+First edit
