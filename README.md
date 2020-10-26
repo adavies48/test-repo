@@ -1,3 +1,2 @@
 # test-repo
-Second edit
-Git third attempt
+Merge conflict here.
